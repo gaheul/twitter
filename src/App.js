@@ -20,7 +20,7 @@ function App() {
                 aria-describedby="basic-addon2"
               />
               <Button variant="outline-secondary" id="button-addon2">
-                Button
+                Buttontest
               </Button>
             </InputGroup>
           </div>
